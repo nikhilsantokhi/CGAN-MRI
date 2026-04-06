@@ -1,0 +1,1 @@
+from .losses import generator_loss, discriminator_loss
