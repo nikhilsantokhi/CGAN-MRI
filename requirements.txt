@@ -1,0 +1,17 @@
+torch==2.7.1+cu126
+torchvision==0.22.1+cu126
+pytorch-lightning==2.4.0
+numpy==2.4.4
+matplotlib==3.10.9
+pandas==3.0.2
+Pillow==12.2.0
+scikit-learn==1.8.0
+scikit-image==0.25.2
+scipy==1.17.1
+h5py==3.14.0
+ismrmrd==1.14.2
+tensorboard==2.17.0
+tqdm==4.67.1
+xsdata==25.7
+opencv_python==4.12.0.88
+
